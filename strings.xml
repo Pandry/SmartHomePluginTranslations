@@ -50,7 +50,7 @@
     <string name="camera_screen_shot_save">Schermata salvata</string>
     <string name="camera_setting_sd_card">Memory Card (Micro SD)</string>
     <string name="camera_settings">Impostazioni della camera</string>
-    <string name="camera_settings_alerts_co_alarm">Rilevazione dell'allarme per il Monossido di Carbonio</string>
+    <string name="camera_settings_alerts_co_alarm">Rilevazione dell'allarme per il CO2</string>
     <string name="camera_settings_alerts_co_alarm_text">Suono dell'allarme del ricevitore di Monossido di Carbonio</string>
     <string name="camera_settings_alerts_high">Alto</string>
     <string name="camera_settings_alerts_low">Basso</string>
