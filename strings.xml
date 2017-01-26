@@ -204,8 +204,8 @@
     <string name="warning_replay_busy">Canale occupato, si prega di provare ancora</string>
     <string name="warning_update_firmware">Fase di aggiornamento del firmware, si prega di non scollegare l'alimentazione. Riprovare più tardi.</string>
     <string name="xiaofang">Xiao Fang camera</string>
-    <string name="cube_ptr_hours_ago"> ora fà</string>
-    <string name="cube_ptr_last_update">ultimo aggiornamento: </string>
+    <string name="cube_ptr_hours_ago"> ore fà</string>
+    <string name="cube_ptr_last_update">Ultimo aggiornamento: </string>
     <string name="cube_ptr_minutes_ago"> Minuti fà</string>
     <string name="cube_ptr_pull_down">Scorri in basso</string>
     <string name="cube_ptr_pull_down_to_refresh">Scorri in basso per ricaricare</string>
