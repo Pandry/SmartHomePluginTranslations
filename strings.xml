@@ -98,7 +98,7 @@
     <string name="file_not_exist">Il file non esiste</string>
     <string name="function_not_support">La modalità di connessione diretta non supporta l'operazione di spegnimento</string>
     <string name="gallary_empty_snapshot">Nessuna schermata</string>
-    <string name="gallary_empty_timelapse">Nessun timelapse</string>
+    <string name="gallary_empty_timelapse">Nessun video</string>
     <string name="go_setting">Per aggiungere</string>
     <string name="hours">Ore</string>
     <string name="ignore">Ignora</string>
