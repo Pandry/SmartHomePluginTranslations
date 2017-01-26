@@ -60,8 +60,8 @@
     <string name="camera_settings_alerts_smoke_alarm">Rilevazione dell'allarme per il fumo</string>
     <string name="camera_settings_alerts_smoke_alarm_text">Suono dell'allarme del ricevitore di fumo</string>
     <string name="camera_settings_continuous_record">Memorizzazione video ininterrotta</string>
-    <string name="camera_settings_flip">Ruota l'immagine</string>
-    <string name="camera_settings_flip_text">Utilizzato per ruotare l'immagine in caso sia ruotata</string>
+    <string name="camera_settings_flip">Capovolgi l'immagine</string>
+    <string name="camera_settings_flip_text">Utilizzato per ruotare l'immagine di 180 gradi in caso la camera sia capovolta</string>
     <string name="camera_settings_log_save">Archiviazione log firmware</string>
     <string name="camera_settings_other">Altre impostazioni</string>
     <string name="camera_settings_record_on_event">Memorizzazione video allarmi</string>
